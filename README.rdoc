@@ -1,0 +1,4 @@
+== Padrino
+
+* https://github.com/padrino/padrino-framework
+* http://www.padrinorb.com/guides/blog-tutorial
